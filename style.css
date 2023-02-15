@@ -20,28 +20,6 @@ svg path:hover {
     cursor: pointer;
     
 }
-svg {
-    transform-origin: center;
-    transition: transform 0.2s ease-in-out;
-  }
-  
-  @media screen and (max-width: 768px) {
-    svg {
-      transform: scale(0.5);
-    }
-  }
-  
-  @media screen and (min-width: 769px) {
-    svg {
-      transform: scale(1);
-    
-      @media (max-width: 576px) {
-        svg {
-          height: 80vw;
-          max-height: 400px;
-        }
-      }
-    }
-  }
+
 
 
