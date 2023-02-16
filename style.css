@@ -22,8 +22,8 @@ svg path:hover {
 }
 
 .svg-container {
-    height: 500px; /* or a specific value that works for your layout */
-    overflow: hidden;
+    height: 700px; /* or a specific value that works for your layout */
+    overflow: auto;
     position: relative;
   }
   
